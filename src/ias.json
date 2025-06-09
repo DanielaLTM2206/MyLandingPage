@@ -1,0 +1,107 @@
+[
+  {
+    "nombre": "ChatGPT",
+    "descripcion": "Asistente de IA conversacional avanzado para responder preguntas, escribir contenido y ayudar con tareas diversas",
+    "categoria": "Asistente",
+    "url": "https://chat.openai.com",
+    "palabrasClave": ["chat", "conversacion", "asistente", "escritura", "preguntas", "texto"]
+  },
+  {
+    "nombre": "Claude",
+    "descripcion": "Asistente de IA de Anthropic para conversaciones, análisis y tareas creativas",
+    "categoria": "Asistente",
+    "url": "https://claude.ai",
+    "palabrasClave": ["asistente", "conversacion", "analisis", "escritura", "claude", "anthropic"]
+  },
+  {
+    "nombre": "Midjourney",
+    "descripcion": "Generación de imágenes artísticas mediante inteligencia artificial",
+    "categoria": "Diseño",
+    "url": "https://midjourney.com",
+    "palabrasClave": ["imagen", "arte", "diseño", "creatividad", "visual", "generacion"]
+  },
+  {
+    "nombre": "DALL-E",
+    "descripcion": "Generador de imágenes de OpenAI a partir de descripciones de texto",
+    "categoria": "Diseño",
+    "url": "https://openai.com/dall-e-2",
+    "palabrasClave": ["imagen", "arte", "diseño", "openai", "visual", "creatividad"]
+  },
+  {
+    "nombre": "GitHub Copilot",
+    "descripcion": "Asistente de programación con IA que ayuda a escribir código",
+    "categoria": "Programación",
+    "url": "https://github.com/features/copilot",
+    "palabrasClave": ["programacion", "codigo", "desarrollo", "github", "asistente", "programming"]
+  },
+  {
+    "nombre": "Notion AI",
+    "descripcion": "Herramienta de productividad con IA integrada para notas y organización",
+    "categoria": "Productividad",
+    "url": "https://notion.so",
+    "palabrasClave": ["productividad","Automatiza Tareas", "notas", "organizacion", "escritura", "trabajo", "colaboracion"]
+  },
+  {
+    "nombre": "Jasper",
+    "descripcion": "Plataforma de escritura con IA para marketing y contenido",
+    "categoria": "Marketing",
+    "url": "https://jasper.ai",
+    "palabrasClave": ["marketing","Diseña Visualmente",  "contenido", "escritura", "copywriting", "negocio", "publicidad"]
+  },
+  {
+    "nombre": "Canva AI",
+    "descripcion": "Herramientas de diseño gráfico potenciadas por inteligencia artificial",
+    "categoria": "Diseño",
+    "url": "https://canva.com",
+    "palabrasClave": ["diseño","Diseña Visualmente", "grafico", "presentaciones", "marketing", "visual", "plantillas"]
+  },
+  {
+    "nombre": "Grammarly",
+    "descripcion": "Asistente de escritura con IA para corrección gramatical y de estilo",
+    "categoria": "Escritura",
+    "url": "https://grammarly.com",
+    "palabrasClave": ["escritura", "gramatica", "correccion", "estilo", "redaccion", "texto"]
+  },
+  {
+    "nombre": "Runway ML",
+    "descripcion": "Plataforma de IA para edición de video y contenido multimedia",
+    "categoria": "Video",
+    "url": "https://runwayml.com",
+    "palabrasClave": ["video","Diseña Visualmente", "Genera Contenido", "edicion", "multimedia", "creatividad", "generacion", "contenido"]
+  },
+  {
+    "nombre": "Copy.ai",
+    "descripcion": "Generador de contenido y copy para marketing con inteligencia artificial",
+    "categoria": "Marketing",
+    "url": "https://copy.ai",
+    "palabrasClave": ["copywriting", "marketing", "contenido", "publicidad", "escritura", "negocio"]
+  },
+  {
+    "nombre": "Loom AI",
+    "descripcion": "Grabación y edición de videos con funciones de IA",
+    "categoria": "Video",
+    "url": "https://loom.com",
+    "palabrasClave": ["video","Genera Contenido" ,"Diseña Visualmente", "grabacion", "presentaciones", "comunicacion", "trabajo", "colaboracion"]
+  },
+  {
+    "nombre": "Figma AI",
+    "descripcion": "Herramientas de diseño UI/UX con funciones de inteligencia artificial",
+    "categoria": "Diseño",
+    "url": "https://figma.com",
+    "palabrasClave": ["diseño","Automatiza Tareas", "ui", "ux", "interfaz", "prototipo", "colaboracion"]
+  },
+  {
+    "nombre": "Synthesia",
+    "descripcion": "Creación de videos con avatares generados por IA",
+    "categoria": "Video",
+    "url": "https://synthesia.io",
+    "palabrasClave": ["video", "avatar", "presentaciones", "educacion", "marketing", "artificial"]
+  },
+  {
+    "nombre": "Otter.ai",
+    "descripcion": "Transcripción automática de audio a texto con IA",
+    "categoria": "Productividad",
+    "url": "https://otter.ai",
+    "palabrasClave": ["transcripcion","Diseña Visualmente",  "audio", "texto", "reuniones", "notas", "productividad"]
+  }
+]
